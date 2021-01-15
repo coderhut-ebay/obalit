@@ -193,7 +193,7 @@ ul li.v4f,
 }
 
 .pages a.disabled {
-    color: #e2aab8 !important;
+    color: rgba(0, 0, 0, 1); !important;
 }
 
 .v4mid form {
@@ -216,7 +216,7 @@ input[type="submit"] {
     height: 30px !important;
     margin-top: -10px !important;
     width: 52px;
-    background-color: #e2aab8;
+    background-color: rgba(0, 0, 0, 1);;
     border: 0;
     color: #fff;
 }
@@ -268,11 +268,11 @@ ul li.v4f a,
 
 ul.lev1 li a:hover,
 .lcat .ttl {
-    color: #e2aab8;
+    color: rgba(0, 0, 0, 1);;
 }
 
 ul.lev1 li span {
-    color: #e2aab8;
+    color: rgba(0, 0, 0, 1);;
     font-size: 12px;
     font-weight: 600;
     text-decoration: none;
@@ -310,7 +310,7 @@ ul.lev2 li a {
 }
 
 ul.lev2 li a:hover {
-    color: #e2aab8;
+    color: rgba(0, 0, 0, 1);;
     display: block;
     font-size: 12px;
     font-weight: normal;
@@ -322,7 +322,7 @@ ul.lev2 li a:hover {
 }
 
 ul.lev2 li span {
-    color: #e2aab8;
+    color: rgba(0, 0, 0, 1);;
     display: block;
     font-size: 12px;
     font-weight: bold;
@@ -413,7 +413,7 @@ ul.lev2 li span {
 }
 
 table.v4clp li span {
-    color: #e2aab8 !important;
+    color: rgba(0, 0, 0, 1); !important;
     text-transform: capitalize;
 }
 
@@ -431,12 +431,12 @@ table.v4clp li span {
 }
 
 .fpcc .countClass {
-    color: #e2aab8;
+    color: rgba(0, 0, 0, 1);;
 }
 
 .v4f a:hover,
 .oc ul li a:hover {
-    color: #e2aab8 !important;
+    color: rgba(0, 0, 0, 1); !important;
 }
 
 #CentralArea {
@@ -830,7 +830,7 @@ table.gallery table.fixed {
     position: absolute;
     text-transform: capitalize;
     font-weight: bold;
-    background-color: #e2aab8;
+    background-color: rgba(0, 0, 0, 1);;
     color: #fff;
     padding: 0 10px;
     border-radius: 5px;
@@ -864,7 +864,7 @@ table.gallery table.fixed {
     position: absolute;
     text-transform: capitalize;
     font-weight: bold;
-    background-color: #e2aab8;
+    background-color: rgba(0, 0, 0, 1);;
     color: #fff;
     padding: 0 10px;
     border-radius: 5px;
