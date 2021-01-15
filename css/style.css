@@ -1007,14 +1007,15 @@ table.gallery td {
 
 .ftr-top {
     padding-bottom: 30px;
+    background-color: rgb(247, 94, 94);
 }
 .single-widget{
     margin-top: 30px;
-    color: #777;
+    color: #fff;
 }
 .single-widget h5.single-widget-heading {
     font-size: 16px;
-    color: #777;
+    color: #fff;
     position: relative;
     padding-bottom: 10px;
     margin-bottom: 16px;
