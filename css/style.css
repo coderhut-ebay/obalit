@@ -1043,7 +1043,7 @@ table.gallery td {
     padding: 8.5px 20.25px;
 }
 .ftr-btm {
-    background-color: #5B5B5B;
+    background-color: rgba(0, 0, 0, 1);
     padding: 15px 0;
     color: rgba(255,255,255,0.5);
 }
