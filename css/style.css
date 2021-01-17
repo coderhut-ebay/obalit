@@ -1057,3 +1057,11 @@ table.gallery td.details {
 .g-nav.subtitle {
     display: none;
 }
+
+/* Other Page */
+
+.other-store-page {
+    padding: 15px;
+    border: 1px solid #e8e8e8;
+    min-height: 1000px;
+}
